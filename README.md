@@ -73,7 +73,7 @@ Figma
 
 
 
-## OUTPUT: c:
+## OUTPUT: 
 c:\Users\acer\Pictures\Screenshots\figma.png
 
 ## RESULT:
