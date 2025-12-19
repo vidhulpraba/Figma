@@ -1,5 +1,5 @@
 # Ex09 Event Registration Web Application
-## Date:
+## Date:19-12-2025
 
 ## AIM:
 To design, develop and deploy a web application for event registration.
@@ -33,10 +33,48 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
+```
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="globals.css" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="image"><img class="bb" src="img/bb-1.png" /></div>
+  </body>
+</html>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="globals.css" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="image"><img class="img" src="img/9788dfbd85a08ebe0e0127047dacbc33-1.png" /></div>
+  </body>
+</html>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="globals.css" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="image"><img class="et" src="img/et00436673-wpujdlttfg-portrait-1.png" /></div>
+  </body>
+</html>
+
 
 
 ## OUTPUT:
-
+![alt text](<Screenshot 2025-12-19 152735.png>)
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
