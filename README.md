@@ -73,8 +73,8 @@ Figma
 
 
 
-## OUTPUT: c:\Users\acer\Pictures\Screenshots\Screenshot 2025-12-19 152735.png
-
+## OUTPUT: c:
+c:\Users\acer\Pictures\Screenshots\figma.png
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
